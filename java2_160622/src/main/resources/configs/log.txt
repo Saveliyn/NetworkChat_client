@@ -1,0 +1,5 @@
+INFO	CЕРВЕР ЗАПУЩЕН!	lesson7.server.MyServer
+INFO	Ожидание клиента...	lesson7.server.MyServer
+INFO	Клиент подключился!	lesson7.server.MyServer
+INFO	Ожидание клиента...	lesson7.server.MyServer
+INFO	Пользователь Брюс_Уэйн подключился к чату	lesson7.server.handlers.ClientHandler
